@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#my files
+data_generator/
+venv/
+.claude
+.DS_Store
